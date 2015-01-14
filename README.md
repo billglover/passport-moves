@@ -1,3 +1,7 @@
+# passport-moves
+
+[![Build Status](https://travis-ci.org/billglover/passport-moves.svg?branch=master)](https://travis-ci.org/billglover/passport-moves)
+
 [Passport](http://passportjs.org/) strategy for authenticating with [Moves](https://www.moves-app.com/)
 using the OAuth 2.0 API.
 

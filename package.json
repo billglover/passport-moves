@@ -28,7 +28,7 @@
     "vows": "0.9.x"
   },
 	"engines": {
-    "node": ">= 0.10.x"
+    "node": "~0.10.x"
   },
   "scripts": {
     "test": "vows test/* --spec"
